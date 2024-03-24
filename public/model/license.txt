@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kurala kylämäki workshop in Turku, Finland
+* source:	https://sketchfab.com/3d-models/kurala-kylamaki-workshop-in-turku-finland-45cab08a88d34fbebe93b1b1b9f36b98
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kurala kylämäki workshop in Turku, Finland" (https://sketchfab.com/3d-models/kurala-kylamaki-workshop-in-turku-finland-45cab08a88d34fbebe93b1b1b9f36b98) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
